@@ -10,12 +10,7 @@ Estudante de Engenharia de Software , buscando incansavelmente por mais experiê
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.duduribeiro1@gmail.com)
 
 ![Kleber GitHub stats](https://github-readme-stats.vercel.app/api?username=kleberfdev&show_icons=true&theme=dracula)
-
-
-## Tecnologias que uso no meu dia
-
 <br>
-
 [![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kleberfdev&layout=compact&theme=dracula)](https://github.com/kleberfdev/github-readme-stats)
 <div style = "display: inline_block"></br>
     <img align= "center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
