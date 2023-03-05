@@ -5,8 +5,9 @@ Estudante de Engenharia de Software , buscando incansavelmente por mais experiê
 
 [![Site](https://img.shields.io/website?label=biokleberdev.com&style=for-the-badge&url=https://kleberfdev.github.io/Bio/)](https://kleberfdev.github.io/Bio/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kleberfdev)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klebersantanaf/)
+[!Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.duduribeiro1@gmail.com)
 
 ![Kleber GitHub stats](https://github-readme-stats.vercel.app/api?username=kleberfdev&show_icons=true&theme=dracula)
 
@@ -24,4 +25,9 @@ Estudante de Engenharia de Software , buscando incansavelmente por mais experiê
     <img align= "center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align= "center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
+</div>
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
