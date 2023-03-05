@@ -1,5 +1,6 @@
 ### Olá Eu sou o Kleber Figueredo 👓
 
+Estudante de Engenharia de Software , buscando incansavelmente por mais experiência em áreas de ADS(Analista e Desenvolvimento de Sistemas), Desenvolvedor Backend e áreas correlatas. 💻
 
 [![Site](https://img.shields.io/website?label=biokleberdev.com&style=for-the-badge&url=https://kleberfdev.github.io/Bio/)](https://kleberfdev.github.io/Bio/)
 
