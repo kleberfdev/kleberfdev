@@ -1,6 +1,7 @@
 ### Olá Eu sou o Kleber Figueredo 👓
 
 Estudante de Engenharia de Software , buscando incansavelmente por mais experiência em áreas de ADS(Analista e Desenvolvimento de Sistemas), Desenvolvedor Backend e áreas correlatas. 💻
+<br>
 
 [![Site](https://img.shields.io/website?label=biokleberdev.com&style=for-the-badge&url=https://kleberfdev.github.io/Bio/)](https://kleberfdev.github.io/Bio/)
 
@@ -8,9 +9,12 @@ Estudante de Engenharia de Software , buscando incansavelmente por mais experiê
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 ![Kleber GitHub stats](https://github-readme-stats.vercel.app/api?username=kleberfdev&show_icons=true&theme=dracula)
-<br>
+
 
 ## Tecnologias que uso no meu dia
+<br>
+
+[![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kleberfdev&layout=compact&theme=dracula)](https://github.com/kleberfdev/github-readme-stats)
 <div style = "display: inline_block"></br>
     <img align= "center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align= "center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
