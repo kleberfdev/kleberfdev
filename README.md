@@ -10,9 +10,9 @@ Estudante de Engenharia de Software , buscando incansavelmente por mais experiê
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klebersantanaf/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.duduribeiro1@gmail.com)
 
-![Kleber GitHub stats](https://github-readme-sigma-five.vercel.app/api?username=kleberfdev&show_icons=true&theme=dracula)
+![Kleber GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kleberfdev&show_icons=true&theme=dracula)
 <br>
-[![Minhas Linguagens](https://github-readme-sigma-five.vercel.app/api/top-langs/?username=kleberfdev&layout=compact&theme=dracula)](https://github.com/kleberfdev/github-readme-stats)
+[![Minhas Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kleberfdev&layout=compact&theme=dracula)](https://github.com/kleberfdev/github-readme-stats)
     </div>
 <div style = "display: inline_block" align="center"></br>
     <img align= "center" alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
